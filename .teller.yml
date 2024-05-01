@@ -1,0 +1,10 @@
+project: dot
+providers:
+  google_secretmanager:
+    env:
+      REGISTRY_SERVER:
+        path: projects/vfarcic/secrets/github-registry/versions/2
+      REGISTRY_USER:
+        path: projects/vfarcic/secrets/github-user/versions/1
+      REGISTRY_PASSWORD:
+        path: projects/vfarcic/secrets/github-token/versions/4

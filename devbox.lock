@@ -1,0 +1,197 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "bat@0.24.0": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#bat",
+      "source": "devbox-search",
+      "version": "0.24.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/y5ivqqi6qsrl1cx43bzjx54lwzmn5nlq-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/y5ivqqi6qsrl1cx43bzjx54lwzmn5nlq-bat-0.24.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6in98qzmj5hzgjvxwickh7wpaaamn8cc-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6in98qzmj5hzgjvxwickh7wpaaamn8cc-bat-0.24.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/y1lkjqzbdl7vsr2fpwgf95nngg4vaikb-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/y1lkjqzbdl7vsr2fpwgf95nngg4vaikb-bat-0.24.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8iafkixj71qgpkiwp1alwsf3y10g50mi-bat-0.24.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8iafkixj71qgpkiwp1alwsf3y10g50mi-bat-0.24.0"
+        }
+      }
+    },
+    "fermyon-spin@2.4.2": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#fermyon-spin",
+      "source": "devbox-search",
+      "version": "2.4.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7wh1i0bi52nqfnr4j7aqy7p28a5ffmwr-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7wh1i0bi52nqfnr4j7aqy7p28a5ffmwr-fermyon-spin-2.4.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5wqn9cgfq8z2h3apya81i2djkslpf1cc-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5wqn9cgfq8z2h3apya81i2djkslpf1cc-fermyon-spin-2.4.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gc6psjhw7064qi3vjnypb63hjliqkyhf-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gc6psjhw7064qi3vjnypb63hjliqkyhf-fermyon-spin-2.4.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xba0fxmxxhab24vmsqxz07d8gq4xz1g3-fermyon-spin-2.4.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xba0fxmxxhab24vmsqxz07d8gq4xz1g3-fermyon-spin-2.4.2"
+        }
+      }
+    },
+    "teller@1.5.6": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#teller",
+      "source": "devbox-search",
+      "version": "1.5.6",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/h614c6g6ns821z9jfkfn6m59a4pl627c-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/h614c6g6ns821z9jfkfn6m59a4pl627c-teller-1.5.6"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4lr2gsrnhs5v3x4yxfr2d6rprwlh1vd6-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4lr2gsrnhs5v3x4yxfr2d6rprwlh1vd6-teller-1.5.6"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nq2jnmi0ib7pvi7apmv9m82kp4pz5f7w-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nq2jnmi0ib7pvi7apmv9m82kp4pz5f7w-teller-1.5.6"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kkrlm441vwm26dqci145fdqfr2j751hr-teller-1.5.6",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kkrlm441vwm26dqci145fdqfr2j751hr-teller-1.5.6"
+        }
+      }
+    },
+    "tree@2.1.1": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#tree",
+      "source": "devbox-search",
+      "version": "2.1.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kxdb34fvl2vs915sr3nax1iczccm7ims-tree-2.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kxdb34fvl2vs915sr3nax1iczccm7ims-tree-2.1.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8wq9mz7k29q6vjk0blxvhsbfirir6c8b-tree-2.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8wq9mz7k29q6vjk0blxvhsbfirir6c8b-tree-2.1.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4m7y19rqb4rsmha9qnlx98mhlcgffbfs-tree-2.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4m7y19rqb4rsmha9qnlx98mhlcgffbfs-tree-2.1.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jy3kcljv6zs2wh1iv6x5414wlvqy950z-tree-2.1.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jy3kcljv6zs2wh1iv6x5414wlvqy950z-tree-2.1.1"
+        }
+      }
+    }
+  }
+}

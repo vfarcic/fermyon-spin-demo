@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.10.6/.schema/devbox.schema.json",
+  "packages": [
+    "bat@0.24.0",
+    "fermyon-spin@2.4.2",
+    "tree@2.1.1",
+    "teller@1.5.6"
+  ],
+  "shell": {
+    "init_hook": [
+      "alias cat='bat --paging never --theme DarkNeon --style plain'",
+      "PS1=\"➜ \""
+    ],
+    "scripts": {}
+  }
+}
